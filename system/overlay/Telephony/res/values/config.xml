@@ -57,4 +57,7 @@
 
     <!-- String indicating the package name of the device GbaService implementation. -->
     <string name="config_gba_package" translatable="false">com.qualcomm.qti.uimGbaApp</string>
+
+    <!-- Whether or not to support RCS User Capability Exchange -->
+    <bool name="config_rcs_user_capability_exchange_enabled">false</bool>
 </resources>
